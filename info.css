@@ -1,0 +1,303 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.seccion-xataka-inicio {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/ad2523/honor-watch-es-1/1366_2000.jpg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/ad2523/honor-watch-es-1/1366_2000.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
+.contenido-xataka-inicio{
+    padding-top: 40px;
+    font-size: 50px;
+    color: white;
+    width: 90%;
+    margin: auto;
+    text-align: left;
+}
+
+.seccion-info-xakata{
+    width: 100%;
+    height: auto;
+}
+
+.contenido-info-xataka{
+    width: 90%;
+    height: auto;
+    margin: auto;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: justify;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.partee1{
+    width: 75%;
+    height: auto;
+    padding: 20px;
+}
+
+.partee2{
+    width: 20%;
+    height: auto;
+    background-color: #f2f2f2;
+    padding: 20px;
+
+}
+.partee2 a {
+    text-decoration: none;
+    color: gray;
+}
+
+/****************************************************************************************************/
+
+.seccion-xataka-inicio2 {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/92134a/moto-g9-plus-01/1366_2000.jpg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/92134a/moto-g9-plus-01/1366_2000.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
+
+/******************************************************************************************************/
+.seccion-xataka-inicio3 {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/8acdc3/apple-watch-se-review-xataka-portada-final/1366_2000.jpg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/8acdc3/apple-watch-se-review-xataka-portada-final/1366_2000.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
+/********************************************************************************************************/
+.seccion-xataka-inicio4 {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/969d95/captura-de-pantalla-2020-10-06-a-las-15.47.39/1366_2000.png);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/969d95/captura-de-pantalla-2020-10-06-a-las-15.47.39/1366_2000.png); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
+/*****************************************************************************************************************/
+.seccion-xataka-inicio2-1 {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/41456b/luz/1366_2000.jpg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/41456b/luz/1366_2000.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
+
+/*****************************************************************************************************************/
+.seccion-xataka-inicio2-2 {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/c2fcc7/iphone-11-07/1366_2000.jpg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/c2fcc7/iphone-11-07/1366_2000.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
+
+/*****************************************************************************************************************/
+.seccion-xataka-inicio2-3 {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/78550c/captura-de-pantalla-2020-06-08-a-las-10.38.44/1366_2000.png);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/78550c/captura-de-pantalla-2020-06-08-a-las-10.38.44/1366_2000.png); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
+
+/*****************************************************************************************************************/
+.seccion-xataka-inicio2-4 {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/c331d7/series/1366_2000.jpg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/c331d7/series/1366_2000.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.205);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
+
+/*****************************************************************************************************************/
+.seccion-xataka-inicio3-1 {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/3af0e2/2560_3000/1366_2000.jpg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/3af0e2/2560_3000/1366_2000.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.205);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
+
+/*****************************************************************************************************************/
+.seccion-xataka-inicio3-2 {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/ccbac7/143447820_295fa41219_b/1366_2000.jpg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/ccbac7/143447820_295fa41219_b/1366_2000.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.205);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
+/*****************************************************************************************************************/
+.seccion-xataka-inicio3-3 {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/14cf79/pandemiasap/1366_2000.jpg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/14cf79/pandemiasap/1366_2000.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.205);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
+/*****************************************************************************************************************/
+.seccion-xataka-inicio3-4 {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/d95ab3/2560_3000/1366_2000.png);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/d95ab3/2560_3000/1366_2000.png); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.205);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
+/*****************************************************************************************************************/
+.seccion-xataka-inicio4-1 {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/c420b1/gratis/1366_2000.jpg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/c420b1/gratis/1366_2000.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.205);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
+/*****************************************************************************************************************/
+.seccion-xataka-inicio4-2 {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/46de05/captive1/1366_2000.jpg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/46de05/captive1/1366_2000.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.205);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
+/*****************************************************************************************************************/
+.seccion-xataka-inicio4-3 {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/d80722/mv5bnmjknta3m2ytn2q2my00mmizlwflnzktm2jiodk0ytc1zjg1xkeyxkfqcgdeqxvymte4odq3mdgx._v1_sy1000_cr0-0-1500-1000_al_-1-/1366_2000.jpg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/d80722/mv5bnmjknta3m2ytn2q2my00mmizlwflnzktm2jiodk0ytc1zjg1xkeyxkfqcgdeqxvymte4odq3mdgx._v1_sy1000_cr0-0-1500-1000_al_-1-/1366_2000.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.205);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
+/*****************************************************************************************************************/
+.seccion-xataka-inicio4-4 {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/c7c5dc/5f76ea87c24e1/1366_2000.jpeg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/c7c5dc/5f76ea87c24e1/1366_2000.jpeg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.205);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
+
+/*****************************************************************************************************************/
+.seccion-xataka-inicio5-1 {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/0c8b9d/fdsdsvdsf/1366_2000.jpg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/0c8b9d/fdsdsvdsf/1366_2000.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.205);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
+
+
+/*****************************************************************************************************************/
+.seccion-xataka-inicio5-2 {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/30ecf9/iot/1366_2000.jpg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/30ecf9/iot/1366_2000.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.205);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
+
+
+/*****************************************************************************************************************/
+.seccion-xataka-inicio5-3 {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/861db0/xilinkx3/1366_2000.jpg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/861db0/xilinkx3/1366_2000.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.205);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
+
+
+/*****************************************************************************************************************/
+.seccion-xataka-inicio5-4 {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 26%, 0.281), hsla(0, 0%, 0%, 0.308)),url(https://i.blogs.es/b47450/worker/1366_2000.jpg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 26%, 0.267), hsla(0, 0%, 0%, 0.26)),url(https://i.blogs.es/b47450/worker/1366_2000.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.205);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+ 
+
+}
